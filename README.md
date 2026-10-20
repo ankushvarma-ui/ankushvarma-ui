@@ -2,114 +2,82 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E62429&center=true&vCenter=true&width=850&lines=Don't+define+yourself.;Let+your+skills+define+who+you+are.;Backend+Engineering+%7C+Problem+Solving;Still+Learning.+Still+Trying.+Still+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1300&color=E62429&center=true&vCenter=true&width=850&lines=Peter+Parker+Mindset.+Spider-Man+Discipline.;Don't+define+yourself.;Let+your+skills+define+who+you+are.;Learning+Today.+Building+For+Tomorrow.)](https://git.io/typing-svg)
 
+**BACKEND ENGINEERING · PROBLEM SOLVING · SYSTEM RELIABILITY**
 
-
-
-
-**Backend Engineering · Problem Solving · Continuous Learning**
+*“With great power comes great responsibility.”*
 
 </div>
 
 ---
 
-## 🕷️ The Person Behind the Code
+## 🕷️ THE PERSON BEHIND THE MASK
 
-I'm a Computer Science undergraduate specializing in Data Science, working toward becoming a strong software engineer with a focus on backend engineering.
+> *“No matter how buried it gets, or lost you feel, you must promise me that you will hold on to hope.”*
 
-I believe in learning by building, understanding by questioning, and improving by trying again. I don't expect every problem to be easy, and I don't believe that not knowing something today means I cannot learn it tomorrow.
+Like Peter Parker, I'm still learning, questioning, and figuring things out. Like Spider-Man, I believe that struggling with something isn't a reason to stop trying.
 
-Peter Parker represents the curious person who keeps learning. Spider-Man represents the responsibility that comes with developing the ability to make a difference.
+I'm a Computer Science undergraduate focused on backend engineering. I'm ambitious about what I want to become, curious about how things work, and determined to keep improving until I can solve problems that challenge me today.
 
-That mindset resonates with me: **stay curious, keep trying, and let your work demonstrate your growth.**
+**I don't want my profile to tell you how good I am. I want my work to give you a reason to find out.**
 
-I'm not here to claim mastery of everything I use. I'm here to understand the technologies I work with, strengthen my fundamentals, and develop the ability to solve increasingly difficult problems independently.
+## 🧪 THE LAB — MY TECHNICAL TOOLKIT
 
-## 🧠 How I Think About Engineering
+*Every hero has a toolkit. Mine is built one concept at a time.*
 
-- **Understand before implementing.** I want to know why a solution works, not simply copy a pattern that appears to work.
-- **Investigate before assuming.** When something fails, I want to trace the cause rather than hide the symptom.
-- **Keep trying when it's difficult.** Progress comes from breaking problems down, testing ideas, and learning from mistakes.
-- **Think beyond the happy path.** Correctness, security, concurrency, and failure handling matter alongside functionality.
-- **Build to validate understanding.** I use projects to turn concepts into practical engineering experience.
-- **Stay honest about what I know.** Confidence should come from understanding and the ability to apply knowledge, not from a long list of technologies.
+| Area | Technologies & foundations |
+|---|---|
+| Languages | C++ · JavaScript · Python · SQL |
+| Backend | Node.js · Express.js · REST APIs · JWT |
+| Data & infrastructure | PostgreSQL · Redis · MongoDB · Docker |
+| Computer science | DSA · OOP · DBMS · Operating Systems · Computer Networks |
 
-## ⚙️ Technical Skills
+## 🕸️ THE MISSION — WALLETX
 
-**Languages**
+**My primary backend engineering project.**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+Building WalletX is part of my journey from writing code that works to understanding what makes software reliable.
 
-**Backend Development**
+Authentication. Transaction consistency. Caching. Security. Failure handling.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-246BFE?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+I'm particularly interested in what happens beyond the happy path: concurrent requests, duplicate operations, deadlocks, performance bottlenecks, and failures that are difficult to diagnose.
 
-**Databases & Infrastructure**
+[**Explore WalletX →**](YOUR_WALLETX_REPOSITORY_URL)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+## ⚡ THE TRAINING ARC
 
-**Frontend & Developer Tools**
+**300+ problems solved across LeetCode and CodeChef.**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+I'm continuing to strengthen my problem-solving ability while learning to reason about complex systems, investigate failures, and understand the trade-offs behind engineering decisions.
 
-**Core Computer Science**
+I'm not claiming to have mastered these challenges. I'm deliberately working toward the ability to solve them.
 
-Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems · Computer Networks · Software Engineering
+## 🧠 THE SPIDER-MAN PRINCIPLE
 
-## 🔍 What I Want to Understand Deeply
+> *“It's a leap of faith.”*
 
-My interests extend beyond writing APIs. I want to develop the ability to reason about the behavior of complete systems.
+Sometimes growth means stepping into a problem you don't yet know how to solve.
 
-- **Database correctness:** Transactions, isolation, locking, and concurrent updates.
-- **Backend reliability:** Retries, idempotency, failure handling, and consistency.
-- **Performance:** Latency, bottlenecks, resource usage, and efficient data access.
-- **System behavior:** Race conditions, deadlocks, network failures, and dependency failures.
-- **Debugging:** Observability, root-cause analysis, and finding problems that are difficult to reproduce.
-- **System design:** Making thoughtful trade-offs between simplicity, maintainability, reliability, and scalability.
+My approach is simple:
 
-These are areas I want to continue exploring through hands-on work, experimentation, and deeper study.
+- **Stay curious.** Ask why, then keep digging.
+- **Keep trying.** Debug, rethink, experiment, repeat.
+- **Take ownership.** Understand the consequences of what you build.
+- **Earn confidence.** Let practical skills and real work speak for themselves.
 
-## 🚀 What I'm Building Toward
+My ambition is to become the kind of backend engineer who can investigate difficult production issues and build systems that remain reliable when things go wrong.
 
-My primary project is **WalletX**, where I'm developing my backend engineering skills and applying concepts related to authentication, databases, caching, and transaction processing.
-
-Beyond individual projects, I want to become an engineer who can take an unfamiliar problem, understand its underlying behavior, investigate failures systematically, and develop a reliable solution.
-
-I'm especially interested in building tools that help developers identify difficult backend issues and understand why software fails in real-world conditions.
-
-## 💻 Problem Solving
-
-I've solved **300+ problems across LeetCode and CodeChef**, and I continue to strengthen my algorithmic thinking through practice.
-
-For me, problem solving isn't just about reaching the correct output. It's about understanding the constraints, developing an approach, evaluating edge cases, and learning to recognize patterns that apply to unfamiliar problems.
-
-## 🕸️ The Principle I Follow
-
-I don't want to be defined by what I say I can do.
-
-I want to be defined by what I understand, what I build, how I approach difficult problems, and how I respond when things don't work.
-
-I'm still learning. I still have problems I cannot solve immediately. But I intend to keep working until I understand more than I did yesterday.
+---
 
 <div align="center">
 
+### DON'T DEFINE YOURSELF.
 
+## LET YOUR SKILLS DEFINE WHO YOU ARE.
 
-**Stay curious. Keep trying. Let your skills speak.**
+*“With great power comes great responsibility.”*
 
-*The goal isn't to appear capable. It's to become capable.*
+**Still learning. Still building. Still becoming.** 🕷️
 
 </div>
