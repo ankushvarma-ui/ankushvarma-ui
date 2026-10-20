@@ -2,66 +2,135 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=246BFE&center=true&vCenter=true&width=800&lines=Backend+Engineering;Building+WalletX;Exploring+Production-Level+Problems;Learning+How+Reliable+Systems+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E62429&center=true&vCenter=true&width=850&lines=Peter+Parker's+Curiosity.+Spider-Man's+Responsibility.;Backend+Engineer+in+Progress;Building+WalletX+%7C+Exploring+System+Reliability;With+Great+Code+Comes+Great+Responsibility.)](https://git.io/typing-svg)
 
-**Backend Engineering · System Reliability · Problem Solving**
+**Backend Engineering · Problem Solving · System Reliability**
 
-*I want to build systems that don't just work under ideal conditions, but are engineered to handle the conditions that make software difficult.*
+*Curious enough to ask why. Persistent enough to find out.*
+
+[GitHub](YOUR_GITHUB_PROFILE_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [LeetCode](YOUR_LEETCODE_URL)
 
 </div>
 
 ---
 
-## About Me
+## 🕷️ The Person Behind the Mask
 
-I'm a Computer Science undergraduate focused on backend engineering and the fundamentals of building reliable software systems.
+Peter Parker was curious about how things worked. Spider-Man learned that what you build and how you use your abilities matters.
 
-I believe engineering is more than writing code to satisfy requirements. It's understanding how components interact, identifying where failures can occur, and making deliberate decisions about correctness, security, and performance.
+That combination resonates with how I approach engineering.
 
-I keep learning, building, debugging, and challenging my own understanding. I'm particularly interested in problems that are easy to overlook during development but difficult to diagnose in production.
+I'm a Computer Science undergraduate focused on backend development, building my foundations through hands-on projects, problem solving, and understanding the systems behind the code.
 
-## 🚀 Featured Project — WalletX
+I don't want to stop when an endpoint returns `200 OK`. I want to understand what happens when requests collide, a database operation fails, a client retries a transaction, or a dependency stops responding.
 
-**A digital wallet backend focused on secure operations and transactional consistency.**
+I'm still learning. That's not something I want to hide — it's the reason I keep building.
 
-WalletX is my primary backend engineering project. I'm using it to explore how authentication, database transactions, caching, and request retries fit together in a stateful application.
+```text
+Curiosity → Experimentation → Failure → Debugging → Understanding
+```
 
-### Engineering focus
+## 🕸️ My Main Mission — WalletX
 
-- **Authentication:** JWT access and refresh tokens with HTTP-only cookies.
-- **Transactional integrity:** PostgreSQL transactions for wallet operations and consistent balance updates.
-- **Idempotency:** Preventing duplicate processing when clients retry transfer requests.
-- **Caching:** Redis for frequently accessed user data.
-- **Security:** Wallet PIN verification, failed-attempt limits, and temporary lockouts.
-- **Architecture:** Modular routes, controllers, services, middleware, and centralized error handling.
-- **Traceability:** Transaction records, ledger entries, and PDF statements.
+**A digital wallet backend. My laboratory for learning how reliable systems are engineered.**
 
-### Technology stack
+WalletX is my primary project. It lets me explore the problems that sit beneath an application's user interface: authentication, transactional integrity, security, caching, and reliable request processing.
 
-`Node.js` · `Express.js` · `PostgreSQL` · `Redis` · `JWT` · `Docker`
+### Inside the system
 
-**What I want to understand deeply:** What happens when requests arrive concurrently, a client retries a transfer, a database operation fails, or a dependency becomes unavailable?
+| Engineering challenge | What I'm building and learning |
+|---|---|
+| Identity & security | JWT access and refresh tokens, HTTP-only cookies, wallet PIN protection |
+| Data consistency | PostgreSQL transactions and coordinated wallet balance updates |
+| Duplicate requests | Idempotency for safely handling transfer retries |
+| Performance | Redis caching for frequently accessed user data |
+| Transaction history | Ledger records, transaction tracking, PDF statements |
+| Maintainability | Modular routes, controllers, services, and error handling |
 
-These are the kinds of questions that motivate me to go beyond implementing endpoints and learn how backend systems behave under failure.
+**Technology:** Node.js · Express.js · PostgreSQL · Redis · Docker
 
-**Repository:** [Explore WalletX](YOUR_WALLETX_REPOSITORY_URL)
+### The real challenge isn't the happy path
 
----
+What interests me most is what happens when things go wrong.
 
-## What I'm Working Toward
+- Can concurrent transfers leave a wallet balance incorrect?
+- What happens if the client retries after the server has already processed a transfer?
+- How should a system behave when a database operation fails halfway through a workflow?
+- How can a developer identify the actual cause of rising latency instead of guessing?
 
-My long-term goal is to become a strong backend engineer who can investigate and solve problems beyond the obvious symptoms.
+These are the questions I want to investigate through implementation, testing, and failure scenarios.
 
-- Discovering performance bottlenecks and unnecessary resource consumption.
-- Understanding race conditions, deadlocks, and database locking.
-- Designing safe retry behavior and reliable transaction workflows.
-- Learning observability, latency analysis, and root-cause diagnosis.
-- Exploring distributed systems and production failure scenarios.
+**[Explore WalletX →](YOUR_WALLETX_REPOSITORY_URL)**
 
-I don't claim to know everything these areas involve. I'm working toward understanding them through implementation, experimentation, and continuous improvement.
+## 🧠 The Peter Parker Principle
+
+*Be curious enough to question the obvious. Be disciplined enough to verify the answer.*
+
+I believe good engineering comes from more than knowing a framework.
+
+- **Curiosity:** Understand what's happening beneath the abstraction.
+- **Persistence:** Debug the problem instead of abandoning it when the first solution fails.
+- **Responsibility:** Treat correctness, security, and user trust as engineering requirements.
+- **Humility:** Recognize what I don't know and work systematically to improve it.
+- **Ownership:** Don't just make a feature work; understand its failure modes and trade-offs.
+
+I don't measure progress by how many technologies I can list. I measure it by how many problems I can understand and solve independently.
+
+## ⚡ My Training Arc
+
+**Data Structures & Algorithms**
+
+300+ problems solved across LeetCode and CodeChef, with continued practice in problem solving and algorithmic reasoning.
+
+**Backend Engineering**
+
+Building WalletX to strengthen my understanding of APIs, PostgreSQL, Redis, authentication, and transaction processing.
+
+**Production Engineering**
+
+Exploring concurrency, deadlocks, performance bottlenecks, observability, and root-cause analysis — the areas I want to get better at through practical experiments.
+
+## 🛠️ My Utility Belt
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Also exploring:** React · REST API design · System design · Distributed systems fundamentals
+
+## 📈 Activity & Progress
 
 <div align="center">
 
-**Build → Test → Break → Debug → Understand → Improve**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+## 🕷️ The Mission Continues
+
+I'm working toward becoming the kind of backend engineer who can investigate a difficult failure, understand the underlying system, and develop a solution that holds up under real conditions.
+
+I don't have every answer yet. I'm building the skills to find them.
+
+<div align="center">
+
+### With great code comes great responsibility.
+
+*Stay curious. Keep building. Take ownership.*
 
 </div>
